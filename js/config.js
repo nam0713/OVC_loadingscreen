@@ -49,32 +49,7 @@ Just make sure it is at webm VP8 format */
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/1.png",
-	"backgrounds/images/2.png",
-	"backgrounds/images/3.png",
-	"backgrounds/images/4.png",
-	"backgrounds/images/5.png",
-	"backgrounds/images/6.png",
-	"backgrounds/images/7.png",
-	"backgrounds/images/8.png",
-	"backgrounds/images/9.png",
-	"backgrounds/images/10.png",
-	"backgrounds/images/11.png",
-	"backgrounds/images/12.png",
-	"backgrounds/images/13.png",
-	"backgrounds/images/14.png",
-	"backgrounds/images/15.png",
-	"backgrounds/images/16.png",
-	"backgrounds/images/17.png",
-	"backgrounds/images/18.png",
-	"backgrounds/images/19.png",
-	"backgrounds/images/20.png",
-	"backgrounds/images/21.png",
-	"backgrounds/images/22.png",
-	"backgrounds/images/23.png",
-	"backgrounds/images/24.png",
-	"backgrounds/images/25.png",
-	"backgrounds/images/26.png"
+	"backgrounds/images/1.jpg"
 ];
 
 /*Random background images order?*/
@@ -107,7 +82,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/metroost.ogg", name: "Lullaby of Deserted Hell"}
+	//{ogg: "songs/metroost.ogg", name: "Lullaby of Deserted Hell"}
 	];
 
 /*Random music order?*/
