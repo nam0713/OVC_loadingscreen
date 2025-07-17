@@ -3,5 +3,3 @@
 3. Configure your sv_loadingurl
 
 Have fun with your new loading screen :)
-
-haha
